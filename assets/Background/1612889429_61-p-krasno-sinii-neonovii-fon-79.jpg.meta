@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "321aa2f9-a905-4f64-b7a7-3a308fb95d81",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "1612889429_61-p-krasno-sinii-neonovii-fon-79": {
+      "ver": "1.0.6",
+      "uuid": "9b1b3c63-e146-4087-80b9-83a84f3f69b8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "321aa2f9-a905-4f64-b7a7-3a308fb95d81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
